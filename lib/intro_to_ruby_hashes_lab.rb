@@ -1,6 +1,6 @@
 def new_hash
   # return an empty hash
-  { favorite_color: "blue" }
+  {}
 end
 
 def my_hash
